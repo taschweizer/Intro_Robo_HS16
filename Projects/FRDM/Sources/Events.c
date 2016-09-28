@@ -51,7 +51,7 @@ extern "C" {
 /* ===================================================================*/
 void Cpu_OnNMIINT(void)
 {
-  /* Write your code here ... */
+  // Code here
 }
 
 /* END Events */
