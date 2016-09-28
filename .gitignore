@@ -1,2 +1,24 @@
 
 Projects/INTRO_HS16_Robot/.settings/language.settings.xml
+*/Documentation/
+*/Debug/
+*/Generated_Code/
+*/.cwGeneratedFileSetLog
+*.g_x
+*/ProjectInfo.xml
+*.g_c
+*/.settings/
+*/Static_Code
+*.orig
+*/doxy/html/
+*/Documentation/
+*/Debug/
+*/Generated_Code/
+*/.cwGeneratedFileSetLog
+*.g_x
+*/ProjectInfo.xml
+*.g_c
+*/.settings/
+*/Static_Code
+*.orig
+*/doxy/html/
